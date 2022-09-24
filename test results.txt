@@ -1,0 +1,1126 @@
+vertices: 210110
+Time taken to create Octree: 0.834 seconds
+Number of Verts: 210110
+number of meshes: 162
+vertices: 24
+vertices: 26
+vertices: 24
+vertices: 26
+vertices: 26
+vertices: 523
+vertices: 560
+vertices: 520
+vertices: 519
+vertices: 520
+vertices: 521
+vertices: 560
+vertices: 560
+vertices: 560
+vertices: 560
+vertices: 519
+vertices: 560
+vertices: 560
+vertices: 518
+vertices: 560
+vertices: 230
+vertices: 63
+vertices: 520
+vertices: 306
+vertices: 196
+vertices: 196
+vertices: 196
+vertices: 196
+vertices: 196
+vertices: 196
+vertices: 168
+vertices: 772
+vertices: 168
+vertices: 772
+vertices: 504
+vertices: 336
+vertices: 360
+vertices: 248
+vertices: 360
+vertices: 248
+vertices: 360
+vertices: 248
+vertices: 360
+vertices: 248
+vertices: 360
+vertices: 248
+vertices: 360
+vertices: 248
+vertices: 6300
+vertices: 1122
+vertices: 3714
+vertices: 3996
+vertices: 172
+vertices: 2356
+vertices: 180
+vertices: 2364
+vertices: 3440
+vertices: 3440
+vertices: 1756
+vertices: 1756
+vertices: 90
+vertices: 62
+vertices: 111
+vertices: 93
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 82
+vertices: 205
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 111
+vertices: 48
+vertices: 117
+vertices: 82
+vertices: 205
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 454
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 187
+vertices: 84
+vertices: 187
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 89
+vertices: 89
+vertices: 89
+vertices: 89
+vertices: 654
+vertices: 67
+vertices: 79
+vertices: 12
+vertices: 97
+vertices: 33
+vertices: 33
+vertices: 893
+vertices: 36
+vertices: 178
+vertices: 504
+vertices: 336
+vertices: 28
+vertices: 28
+vertices: 84
+vertices: 84
+vertices: 84
+vertices: 86
+vertices: 94
+vertices: 178
+vertices: 155
+vertices: 155
+vertices: 4
+vertices: 4
+vertices: 439
+vertices: 455
+vertices: 455
+vertices: 439
+vertices: 439
+vertices: 439
+vertices: 554
+vertices: 144
+vertices: 852
+vertices: 713
+vertices: 3848
+vertices: 3848
+Time taken to intersect Octree: 51 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 42 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 43 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 42 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 43 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 43 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 1 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 2 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 43 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 62 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 43 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 4 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 6 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 5 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 3 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 12 microseconds
+Time taken to intersect Octree: 8 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 7 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 16 microseconds
+Time taken to intersect Octree: 11 microseconds
+Time taken to intersect Octree: 10 microseconds
+Time taken to intersect Octree: 9 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 15 microseconds
+Time taken to intersect Octree: 26 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 14 microseconds
+Time taken to intersect Octree: 13 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 17 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 24 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 18 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 30 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 19 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 25 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 20 microseconds
+Time taken to intersect Octree: 21 microseconds
+Time taken to intersect Octree: 27 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 32 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 41 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 22 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 42 microseconds
+Time taken to intersect Octree: 31 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 38 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 34 microseconds
+Time taken to intersect Octree: 42 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 36 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 42 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 37 microseconds
+Time taken to intersect Octree: 29 microseconds
+Time taken to intersect Octree: 39 microseconds
+Time taken to intersect Octree: 40 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 23 microseconds
+Time taken to intersect Octree: 48 microseconds
+Time taken to intersect Octree: 33 microseconds
+Time taken to intersect Octree: 35 microseconds
+Time taken to intersect Octree: 28 microseconds
+Time taken to intersect Octree: 32 microseconds
